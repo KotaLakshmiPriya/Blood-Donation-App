@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1080055526123",
+    "project_id": "talentfarm-653ed",
+    "storage_bucket": "talentfarm-653ed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080055526123:android:71c24c23eccdf21adbc4ae",
+        "android_client_info": {
+          "package_name": "com.example.project_talentfram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080055526123-nlhcclfncct0tt83fg6ccst7atcp8bh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWIz7iTgkouNrXzg0IJruLAfrJQMcQkF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080055526123-nlhcclfncct0tt83fg6ccst7atcp8bh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080055526123:android:033e5bf1b6f6d0a3dbc4ae",
+        "android_client_info": {
+          "package_name": "com.example.talentfarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080055526123-nlhcclfncct0tt83fg6ccst7atcp8bh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWIz7iTgkouNrXzg0IJruLAfrJQMcQkF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080055526123-nlhcclfncct0tt83fg6ccst7atcp8bh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
