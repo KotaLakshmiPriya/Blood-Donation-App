@@ -17,7 +17,7 @@ Backend: Firebase (Authentication & Firestore)
 State Management: setState (basic)
 📸 Screenshots
 (Add screenshots of key app pages like Donate, Get Help, Volunteer)
-
+```
 📂 Folder Structure
 lib/ ├── main.dart ├── screens/ │ ├── donate.dart │ ├── get_help.dart │ ├── volunteer.dart │ └── login_signup.dart ├── services/ │ └── firebase_service.dart
 
