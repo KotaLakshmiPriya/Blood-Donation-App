@@ -19,7 +19,14 @@ State Management: setState (basic)
 (Add screenshots of key app pages like Donate, Get Help, Volunteer)
 ```
 📂 Folder Structure
-lib/ ├── main.dart ├── screens/ │ ├── donate.dart │ ├── get_help.dart │ ├── volunteer.dart │ └── login_signup.dart ├── services/ │ └── firebase_service.dart
+lib/ ├── main.dart
+     ├── screens/ 
+     ├── donate.dart
+     ├── get_help.dart
+     ├── volunteer.dart
+        └── login_signup.dart
+     ├── services/
+        └── firebase_service.dart
 
 📧 Contact
 If you have suggestions or questions, feel free to reach out:
